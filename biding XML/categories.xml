@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+	<Category Name="Samochody osobowe" Description="Pojazdy osobowe">
+		<Subcategory Name="Toyota" Description="Koncern: Toyota, Data powstania: 1937, Kraj produkcji: Japonia">
+			<Model Name="Corolla" Year="2020" EngineCapacity="1.8L" DriveType="FWD" />
+			<Model Name="Camry" Year="2021" EngineCapacity="2.5L" DriveType="AWD" />
+		</Subcategory>
+		<Subcategory Name="BMW" Description="Koncern: BMW, Data powstania: 1916, Kraj produkcji: Niemcy">
+			<Model Name="Series 3" Year="2019" EngineCapacity="2.0L" DriveType="RWD" />
+			<Model Name="Series 5" Year="2020" EngineCapacity="3.0L" DriveType="AWD" />
+		</Subcategory>
+	</Category>
+	<Category Name="Motory" Description="Jednoślady">
+		<Subcategory Name="Honda" Description="Koncern: Honda, Data powstania: 1948, Kraj produkcji: Japonia">
+			<Model Name="CBR600RR" Year="2021" EngineCapacity="599cc" DriveType="Chain" />
+		</Subcategory>
+	</Category>
+</Categories>
